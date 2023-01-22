@@ -32,6 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Um app para monitorar hábitos diários.
+- [Visite o projeto online](https://miask3011.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
